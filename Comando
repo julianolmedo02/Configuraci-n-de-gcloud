@@ -1,0 +1,11 @@
+Output de la Consola al comando "gcloud config list"
+
+vboxuser@docker:~$ gcloud config list
+[core]
+account = 22316095@uagro.mx
+disable_usage_reporting = True
+project = distributed-map-497501-t5
+[run]
+region = us-central1
+
+Your active configuration is: [default]
